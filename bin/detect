@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Heroku Buildpack Test"
